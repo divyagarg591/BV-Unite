@@ -5,5 +5,21 @@ click on myapp to see the code.
   Frontend:- Html,Css ,Bootstrap 
   Database:- sqlite
   Web Framework Used:- Django Web Framework.
+  signup:
+  
+  login:
+  
+  home page:
  ![home page](https://user-images.githubusercontent.com/77569905/117268340-cdf8b500-ae74-11eb-910d-a8efa73d9328.png)
-
+ 
+  contacts:
+  
+  messages:
+  
+  announcement:
+  
+  change Password:
+  
+  
+  
+  
