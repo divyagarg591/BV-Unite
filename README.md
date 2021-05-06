@@ -5,6 +5,7 @@ click on myapp to see the code.
   Frontend:- Html,Css ,Bootstrap 
   Database:- sqlite
   Web Framework Used:- Django Web Framework.
+  
   signup:
   
   login:
