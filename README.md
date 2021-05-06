@@ -6,6 +6,9 @@ click on myapp to see the code.
   Database:- sqlite
   Web Framework Used:- Django Web Framework.
   
+  first page:
+  ![Screenshot (374)](https://user-images.githubusercontent.com/77569905/117269746-2c726300-ae76-11eb-90f5-f7a2c084e2d5.png)
+  
   signup:
   
   login:
