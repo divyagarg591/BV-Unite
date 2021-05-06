@@ -28,7 +28,7 @@ click on myapp to see the code.
   ![Screenshot (379)](https://user-images.githubusercontent.com/77569905/117270724-229d2f80-ae77-11eb-9263-a69713cfcfa3.png)
   
   announcement:
-  
+  ![Screenshot (380)](https://user-images.githubusercontent.com/77569905/117270734-24ff8980-ae77-11eb-80d0-ee9cdec12d4f.png)
   
   change Password:
   
