@@ -24,6 +24,9 @@ click on myapp to see the code.
   messages:
   ![Screenshot (378)](https://user-images.githubusercontent.com/77569905/117270704-1ca74e80-ae77-11eb-9cd7-ba68c1b3efc2.png)
   
+  my profile:
+  ![Screenshot (379)](https://user-images.githubusercontent.com/77569905/117270724-229d2f80-ae77-11eb-9263-a69713cfcfa3.png)
+  
   announcement:
   
   
