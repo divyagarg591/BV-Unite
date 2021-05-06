@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\myapp",
+    "\\static",
+    "\\static\\css",
+    "\\static\\file",
+    "\\static\\images",
+    "\\static\\js",
+    "\\static\\vendor",
+    "\\templates",
+    "\\website"
+  ],
+  "SelectedNode": "\\myapp\\views.py",
+  "PreviewInSolutionExplorer": false
+}
