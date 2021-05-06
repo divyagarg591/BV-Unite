@@ -36,3 +36,6 @@ click on myapp to see the code.
   contact_us:
   ![Screenshot (382)](https://user-images.githubusercontent.com/77569905/117271602-fafa9700-ae77-11eb-8219-7160b45be7c8.png)
   
+  About us:
+  ![image](https://user-images.githubusercontent.com/77569905/117272008-617fb500-ae78-11eb-939e-b537f41b454f.png)
+
